@@ -1,6 +1,6 @@
 # Lab 02 - Baseline Orders API
 
-Use https://github.com/KernelGamut32/microservice-apis/tree/master/ch02/orders (from a GitHub repo forked from https://github.com/abunuwas/microservice-apis that accompanies a great book called "Microservice APIs" - see https://www.amazon.com/Microservice-APIs-Jose-Haro-Peralta/dp/1617298417) as solution detail for this lab.
+Use https://github.com/KernelGamut32/microservice-apis/tree/master/ch02/orders (from a GitHub repo forked from https://github.com/abunuwas/microservice-apis that accompanies a great book called "Microservice APIs" - see https://www.manning.com/books/microservice-apis) as solution detail for this lab.
 
 Using the provided `oas.yaml` file in that folder (and the language of your choice), generate models and a new API that allows you to process CRUD (Create, Retrieve, Update, and Delete) operations in a baseline orders API for the fictional "Coffee Mesh" storefront. This will leverage a simple in-memory construct for runtime persistence of the order data.
 

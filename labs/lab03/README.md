@@ -1,6 +1,6 @@
 # Lab 03 - Orders API with Parameters & Validation
 
-Use https://github.com/KernelGamut32/microservice-apis/tree/master/ch06/orders (from a GitHub repo forked from https://github.com/abunuwas/microservice-apis that accompanies a great book called "Microservice APIs" - see https://www.amazon.com/Microservice-APIs-Jose-Haro-Peralta/dp/1617298417) as solution detail for this lab.
+Use https://github.com/KernelGamut32/microservice-apis/tree/master/ch06/orders (from a GitHub repo forked from https://github.com/abunuwas/microservice-apis that accompanies a great book called "Microservice APIs" - see https://www.manning.com/books/microservice-apis) as solution detail for this lab.
 
 In this lab, you will enhance the API by adding supported query parameters for filtering. You will also look at adding validation for the parameters to ensure the API interface remains robust and user-friendly.
 

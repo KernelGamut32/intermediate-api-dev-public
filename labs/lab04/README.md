@@ -1,6 +1,6 @@
 # Lab 04 - Orders API with Backing Datastore
 
-Use https://github.com/KernelGamut32/microservice-apis/tree/master/ch07 (from a GitHub repo forked from https://github.com/abunuwas/microservice-apis that accompanies a great book called "Microservice APIs" - see https://www.amazon.com/Microservice-APIs-Jose-Haro-Peralta/dp/1617298417) as solution detail for this lab.
+Use https://github.com/KernelGamut32/microservice-apis/tree/master/ch07 (from a GitHub repo forked from https://github.com/abunuwas/microservice-apis that accompanies a great book called "Microservice APIs" - see https://www.manning.com/books/microservice-apis) as solution detail for this lab.
 
 In this lab, you will enhance the API by adding a database backend used to persist your order detail across API restarts. For this lab, the goal will be to implement a well-partitioned and loosely-coupled architecture for the API. This means, keeping front end (routes) properly separated from business logic (services) and database code (repositories). By driving these types of separation into your architecture, you are better positioned for changes over time. Additionally, loosely-coupled components are more testable (using techniques like dependency injection and mocking).
 
