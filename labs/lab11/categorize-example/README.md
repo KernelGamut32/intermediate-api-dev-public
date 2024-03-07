@@ -2,7 +2,7 @@
 
 * Run in a Cloud9 environment
 * Clone the top-level repository in Cloud9 in the terminal using `git clone https://github.com/KernelGamut32/intermediate-api-dev-public.git`
-* Navigate to the lab directory in the terminal using `cd labs/lab11/categorize-example`
+* Navigate to the lab directory in the terminal using `cd intermediate-api-dev-public/labs/lab11/categorize-example`
 * Run `npm install` to install the dependencies
 * Run `cdk bootstrap` to bootstrap the environment
 * Run `cdk synth` to synthesize the CloudFormation template and view the template
